@@ -73,12 +73,14 @@ print("Predicted Result:",y_prednew)
 ```
 ## Output:
 ## ACCURACY,ACTUAL AND PREDICTED VALUES:
-![image](https://github.com/harini1006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497405/fc78ffe5-3d9f-4aee-b22b-3af7aea9ad6f)
+![image](https://github.com/user-attachments/assets/5b623132-3722-40ec-a165-2edba200deaf)
+
 
 
 ## PREDICTED RESULT:
 
-![image](https://github.com/harini1006/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497405/e90546b5-582d-4204-bcd5-213125650d69)
+![image](https://github.com/user-attachments/assets/31a3bcf7-c541-4c6e-94b8-dec044bd8737)
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
